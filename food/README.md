@@ -1,6 +1,7 @@
 # food
 
 > A Vue.js project
+//该项目是收银系统，利用了vue脚手架，axios请求数据，store来存储数据和更改数据
 
 ## Build Setup
 
